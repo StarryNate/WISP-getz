@@ -1,0 +1,7 @@
+README file for get_z_interactive version 1.0
+New in this version:
+Code no longer requires user-specified input linelist; this is now 
+optional. Code defaults to looking for 'linelist/Par???lines.dat'
+This version uses the XPA messaging system to display images in DS9,
+instead of using IRAF. XPA can be downloaded here: 
+http://hea-www.harvard.edu/RD/xpa/index.html
